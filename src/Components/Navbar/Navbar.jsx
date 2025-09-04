@@ -25,7 +25,7 @@ const Navbar = () => {
             className="h-8 w-8 object-cover shadow-md"
           />
           <h1 className="text-2xl font-bold text-indigo-600 hover:text-indigo-800">
-            MyPortFolio
+            MyPortfolio
           </h1>
         </div>
 
